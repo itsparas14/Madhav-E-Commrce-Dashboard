@@ -26,7 +26,7 @@ Key Features:
 
 **Preview**
 
-![Dashboard Screenshot](screenshots/dashboard_main.png)
+![Dashboard Screenshot](https://github.com/itsparas14/Madhav-E-Commrce-Dashboard/blob/main/Dashboard%20ScreenShot.png)
 
 
 Skills Demonstrated
